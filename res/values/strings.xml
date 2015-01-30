@@ -4,5 +4,6 @@
     <string name="app_name">BirthDay</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="login">登  录</string>
 
 </resources>

@@ -10,6 +10,118 @@ package com.hb.birthday;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int ba_light_green=0x7f040051;
+        public static final int bg_dark_blue=0x7f04004d;
+        public static final int bg_dark_blue_press=0x7f04004e;
+        public static final int bg_dark_orange=0x7f040052;
+        public static final int bg_dark_orange_press=0x7f040053;
+        public static final int bg_dim_green=0x7f04005a;
+        public static final int bg_dim_green_press=0x7f04005b;
+        public static final int bg_din_blue=0x7f04005e;
+        public static final int bg_gold_orange=0x7f040058;
+        public static final int bg_gold_orange_press=0x7f040059;
+        public static final int bg_light_blue=0x7f04004f;
+        public static final int bg_light_blue_press=0x7f040050;
+        public static final int bg_light_orange=0x7f040056;
+        public static final int bg_light_orange_press=0x7f040057;
+        public static final int bg_light_purple=0x7f040054;
+        public static final int bg_light_purple_press=0x7f040055;
+        public static final int black=0x7f040038;
+        public static final int black_gray=0x7f040028;
+        public static final int blue_green_normal=0x7f040047;
+        public static final int blue_green_pressed=0x7f040048;
+        public static final int blue_stress=0x7f040040;
+        public static final int bottom_item_line_color=0x7f040000;
+        public static final int buton_change_color_b=0x7f040005;
+        public static final int buton_change_color_g=0x7f040006;
+        public static final int button_blue_background=0x7f04001a;
+        public static final int button_blue_background_press=0x7f04001c;
+        public static final int button_dark1_blue_background_press=0x7f04001d;
+        public static final int button_dark_green_background=0x7f04001b;
+        public static final int button_darkblue_background=0x7f04001e;
+        public static final int button_darkblue_background1=0x7f04001f;
+        public static final int button_gray_background=0x7f040027;
+        public static final int button_gray_background_pressed=0x7f040029;
+        public static final int button_lightblue_background=0x7f040019;
+        public static final int button_red_background=0x7f04002a;
+        public static final int button_red_background_pressed=0x7f04002b;
+        public static final int button_white_font=0x7f040020;
+        public static final int dark_red=0x7f040035;
+        public static final int dark_red_press=0x7f040036;
+        public static final int default_black_font=0x7f040014;
+        public static final int default_blue_background=0x7f040008;
+        public static final int default_blue_background1=0x7f040004;
+        public static final int default_blue_font=0x7f04000f;
+        public static final int default_darkblue_font=0x7f040018;
+        public static final int default_grey=0x7f04000d;
+        public static final int default_grey_light=0x7f04000e;
+        /**  背景色     隔行换色 
+         */
+        public static final int default_highwhite_background=0x7f04000b;
+        public static final int default_lightblue_background=0x7f040007;
+        public static final int default_lightgreen_background=0x7f04000c;
+        public static final int default_red_background=0x7f04000a;
+        public static final int default_white_background=0x7f040009;
+        public static final int default_white_font=0x7f040010;
+        public static final int fire_red=0x7f040034;
+        public static final int flat_blue=0x7f040031;
+        public static final int flat_blue_light=0x7f040068;
+        public static final int flat_blue_press=0x7f040069;
+        public static final int flat_green=0x7f040064;
+        public static final int flat_green_press=0x7f040065;
+        public static final int flat_orange=0x7f040066;
+        public static final int flat_orange_press=0x7f040067;
+        public static final int flat_pink=0x7f040062;
+        public static final int flat_pink_press=0x7f040063;
+        public static final int gray=0x7f040037;
+        public static final int green=0x7f040032;
+        public static final int green_normal=0x7f040049;
+        public static final int green_pressed=0x7f04004a;
+        public static final int head_blue=0x7f04005f;
+        public static final int highwhite_background=0x7f04002c;
+        public static final int icon_blue_background=0x7f040021;
+        public static final int icon_blue_background_pressed=0x7f040022;
+        public static final int icon_gray_background=0x7f040023;
+        public static final int icon_gray_background_pressed=0x7f040024;
+        public static final int icon_green_background=0x7f040025;
+        public static final int icon_green_background_pressed=0x7f040026;
+        public static final int incident_level1_background=0x7f04003a;
+        public static final int incident_level1_background_press=0x7f04003b;
+        public static final int incident_level2_background=0x7f04003c;
+        public static final int incident_level2_background_press=0x7f04003d;
+        public static final int light_blue_normal=0x7f040045;
+        public static final int light_blue_pressed=0x7f040046;
+        public static final int light_red_normal=0x7f040041;
+        public static final int light_red_pressed=0x7f040042;
+        public static final int light_tea_green=0x7f04003e;
+        public static final int lightgreen_background=0x7f04002d;
+        public static final int lightgreen_font=0x7f040033;
+        public static final int link_color=0x7f040003;
+        public static final int loosen=0x7f04005d;
+        public static final int main_black_font=0x7f040015;
+        public static final int main_white_font=0x7f040011;
+        public static final int orange_normal=0x7f04004b;
+        public static final int orange_pressed=0x7f04004c;
+        public static final int pressed=0x7f04005c;
+        /**  分段选择器 
+         */
+        public static final int radio_button_selected_color=0x7f040060;
+        public static final int radio_button_unselected_color=0x7f040061;
+        public static final int red=0x7f04002f;
+        public static final int red_normal=0x7f040043;
+        public static final int red_pressed=0x7f040044;
+        public static final int sub_black_font=0x7f040016;
+        public static final int sub_sub_black_font=0x7f040017;
+        public static final int sub_sub_white_font=0x7f040013;
+        public static final int sub_white_font=0x7f040012;
+        public static final int tea_green=0x7f04003f;
+        public static final int title_button_color_gray=0x7f040002;
+        public static final int title_color_white=0x7f040001;
+        public static final int traffic_green=0x7f040039;
+        public static final int transparent=0x7f04002e;
+        public static final int white=0x7f040030;
+    }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
 
@@ -17,25 +129,27 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-    }
-    public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int bg_flat_pink=0x7f020000;
+        public static final int black=0x7f020005;
+        public static final int ic_launcher=0x7f020001;
+        public static final int list_item_background=0x7f020004;
+        public static final int main_background=0x7f020002;
+        public static final int red=0x7f020006;
+        public static final int selector_for_current_dispose_incedent=0x7f020007;
+        public static final int white=0x7f020003;
     }
     public static final class layout {
         public static final int activity_home=0x7f030000;
     }
-    public static final class menu {
-        public static final int main=0x7f070000;
-    }
     public static final class string {
-        public static final int action_settings=0x7f050001;
-        public static final int app_name=0x7f050000;
-        public static final int hello_world=0x7f050002;
+        public static final int action_settings=0x7f060001;
+        public static final int app_name=0x7f060000;
+        public static final int hello_world=0x7f060002;
+        public static final int login=0x7f060003;
     }
     public static final class style {
         /** 
@@ -59,10 +173,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }
