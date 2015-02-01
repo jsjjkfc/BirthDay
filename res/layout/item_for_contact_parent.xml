@@ -4,11 +4,14 @@
     android:layout_height="match_parent" >
 
     <TextView
+        android:id="@+id/groupDate"
         android:layout_width="match_parent"
-        android:layout_height="30dp"
+        android:layout_height="wrap_content"
         android:background="#8e909e9f"
         android:gravity="center_vertical"
-        android:paddingLeft="8dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="16dp"
+        android:paddingTop="2dp"
         android:text="2015年2月1日"
         android:textColor="@color/main_white_font" />
 
