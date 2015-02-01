@@ -119,5 +119,6 @@
     <color name="flat_orange_press">#f57c00</color>
     <color name="flat_blue_light">#03a9f4</color>
     <color name="flat_blue_press">#0288d1</color>
+    <color name="flat_orange_700">#f57c00</color>
 
 </resources>

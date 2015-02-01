@@ -71,6 +71,7 @@ public final class R {
         public static final int flat_green=0x7f040064;
         public static final int flat_green_press=0x7f040065;
         public static final int flat_orange=0x7f040066;
+        public static final int flat_orange_700=0x7f04006a;
         public static final int flat_orange_press=0x7f040067;
         public static final int flat_pink=0x7f040062;
         public static final int flat_pink_press=0x7f040063;
@@ -130,22 +131,31 @@ public final class R {
     }
     public static final class drawable {
         public static final int bg_flat_pink=0x7f020000;
-        public static final int black=0x7f020005;
-        public static final int ic_launcher=0x7f020001;
-        public static final int list_item_background=0x7f020004;
-        public static final int main_background=0x7f020002;
-        public static final int red=0x7f020006;
-        public static final int selector_for_current_dispose_incedent=0x7f020007;
-        public static final int white=0x7f020003;
+        public static final int bg_frame=0x7f020001;
+        public static final int black=0x7f020009;
+        public static final int ic_add=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int ic_list_white=0x7f020004;
+        public static final int ic_search=0x7f020005;
+        public static final int list_item_background=0x7f020008;
+        public static final int main_background=0x7f020006;
+        public static final int red=0x7f02000a;
+        public static final int selector_for_current_dispose_incedent=0x7f02000b;
+        public static final int white=0x7f020007;
+    }
+    public static final class id {
+        public static final int title=0x7f080000;
     }
     public static final class layout {
         public static final int activity_home=0x7f030000;
+        public static final int item_for_contact=0x7f030001;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
         public static final int hello_world=0x7f060002;
         public static final int login=0x7f060003;
+        public static final int search=0x7f060004;
     }
     public static final class style {
         /** 
