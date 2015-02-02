@@ -51,7 +51,8 @@
             android:layout_height="match_parent"
             android:background="@drawable/bg_frame"
             android:drawableLeft="@drawable/ic_search"
-            android:hint="@string/search" />
+            android:hint="@string/search"
+            android:textColor="@color/main_black_font" />
     </LinearLayout>
 
     <ExpandableListView
